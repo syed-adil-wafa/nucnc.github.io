@@ -11,7 +11,8 @@ I'd like to talk about 'big data' and data science in neuroscience. Publicly ava
 # February 26, 2019 5PM
 **Theoretical Research Problems** <br>
 1. LSTM Neural Networks for sequence to sequence prediction: Focus on preprocessing of data for comparison across datasets, Maite Azcorra Sedano<br>
-2. Title TBA, Shiloh Cooper
+2. White Matter Tractography in DTI, Shiloh Cooper<br>
+Diffusion MRI is sensitive to water movements through tissues, and is used to characterize tissue structure based on the restriction of water movement. One example is white matter tractography, where the water pathways are assumed to travel in the same directions as bundles of axons traveling between cortical regions of interest. How can we create an accurate tractography algorithm (i.e., one that does not "jump" from one white matter tract to another when they cross within a voxel) without using anatomical priors and biasing the algorithm?
 
 
 # February 11, 2019, 5PM
