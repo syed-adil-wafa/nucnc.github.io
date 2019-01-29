@@ -2,6 +2,7 @@
 layout: page
 title: Events
 ---
+[Join us via bluejeans](https://bluejeans.com/233726884).
 
 # February 11, 2019, 5PM
 **Neural encoding and decoding in MATLAB, Vivek Sagar** <br>
