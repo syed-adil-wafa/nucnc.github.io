@@ -2,6 +2,6 @@
 <p align="justify">
 Welcome to Northwestern University Computational Neuroscience Club (NUCNC).<br>
 <br>
-We meet once every two weeks to discuss and learn about computational and theoretical neuroscience. Meetings include article/book chapter discussions, hackathons, tutorials, white board discussions, round tables and lot more! Meetings take place simultaneously on Evanston and Chicago campuses (coordinated via videocasting) and are open to all NU graduate students, post-docs and faculty members interested/involved in computational neuroscience. 
+We meet on alternate Mondays 5-6PM to learn and discuss computational and theoretical neuroscience. Meetings include (but are not limited to) article/book chapter discussions, hackathons, tutorials, white board and round table discussions and invited talks. Meetings take place simultaneously on Evanston (Tech L251) and Chicago (Wieboldt 421) campuses (coordinated via videocasting) and are open to all NU graduate students, post-docs and faculty members interested/involved in computational neuroscience. 
 </p>
 
