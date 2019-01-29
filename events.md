@@ -3,8 +3,6 @@ layout: page
 title: Events
 ---
 
-## Upcoming events
-
 # February 11, 2019, 5PM
 **Neural encoding and decoding in MATLAB, Vivek Sagar** <br>
 For the first half of the discussion, we will briefly discuss principles of neural encoding and decoding based on the following [paper](https://www.sciencedirect.com/science/article/pii/S0079612306650310).
