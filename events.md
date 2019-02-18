@@ -21,9 +21,9 @@ I'd like to talk about 'big data' and data science in neuroscience. Publicly ava
 Diffusion MRI is sensitive to water movements through tissues, and is used to characterize tissue structure based on the restriction of water movement. One example is white matter tractography, where the water pathways are assumed to travel in the same directions as bundles of axons traveling between cortical regions of interest. How can we create an accurate tractography algorithm (i.e., one that does not "jump" from one white matter tract to another when they cross within a voxel) without using anatomical priors and biasing the algorithm?
 
 ## Past Events
+Please see the content page for resources.
 
 # February 11, 2019, 5PM
 **Neural encoding and decoding in MATLAB, Vivek Sagar** <br>
-For the first half of the discussion, we will briefly discuss principles of neural encoding and decoding based on the following [paper](https://www.sciencedirect.com/science/article/pii/S0079612306650310).
-Second half of the discussion will be based on practically implementing these models in MATLAB. We will construct an encoder (and decoder) for mapping spatial position to neural activity (and vice-versa) in MECIII grid cells in freely behaving rats. For this we will use the following [dataset](https://archive.norstore.no/pages/public/datasetDetail.jsf?id=8F6BE356-3277-475C-87B1-C7A977632DA7).
+For the first half of the discussion, we will briefly discuss principles of neural encoding and decoding based on the following [paper](https://www.sciencedirect.com/science/article/pii/S0079612306650310). Second half of the discussion will be based on practically implementing these models in MATLAB. We will construct an encoder (and decoder) for mapping spatial position to neural activity (and vice-versa) in MECIII grid cells in freely behaving rats. For this we will use the following [dataset](https://archive.norstore.no/pages/public/datasetDetail.jsf?id=8F6BE356-3277-475C-87B1-C7A977632DA7). We will use the following [codes](https://github.com/viveksgr/NUCNC_demo/tree/master/Scripts) for analysis.
 Prerequisites: basic probability theory, coding in MATLAB
