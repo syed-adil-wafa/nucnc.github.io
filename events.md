@@ -6,7 +6,7 @@ title: Events
 
 # February 25, 2019 5PM
 **Recurrent Neural Networks for Continuous Neural Decoding, Maite Azcorra Sedano**<br>
-In this session we will discuss the challenges of predicting continuous variables from neural activity, and the benefits of Recurrent Neural Networks to approach this problem. We will briefly introduce different methods for sequence-to-sequence prediction based on the following [paper](https://arxiv.org/ftp/arxiv/papers/1708/1708.00909.pdf), focusing on Recurrent Neural Networks, and in particular on LSTM (Long-Short Term Memory) networks. We will then discuss important steps to take when implementing a neural network, such as cross validation, data preprocessing, optimization of parameters, etc. We will also look at real life examples of successes and failures of LSTM prediction, implemented in Python.<br>
+In this session we will discuss the challenges of predicting continuous variables from neural activity. We will introduce different methods to approach this problem and focus on LSTM (Long-Short Term Memory) recurrent neural networks and their benefits. We will also discuss important things to keep in mind when implementing such networks, such as cross validation, data preprocessing, optimization of hyperparameters etc. We will finally over some real life examples of how to (and not to) implement LSTMs to predict mouse behavior from GCaMP neuronal activity.<br>
 Prerequisites: Interest in Machine Learning!<br>
 
 # March 11, 2019, 5 PM
