@@ -2,7 +2,7 @@
 layout: page
 title: Events
 ---
-# [Join us via bluejeans](https://bluejeans.com/233726884)
+# [Join us via bluejeans](https://bluejeans.com/942055066)
 
 # March 25, 2019, 5 PM
 **Neural Manifolds for the Control of Movement, Prof. Sara Solla**<br>
