@@ -4,13 +4,6 @@ title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/942055066)
 
-# March 25, 2019, 5 PM
-**Neural Manifolds for the Control of Movement, Prof. Sara Solla**<br>
-The analysis of neural dynamics in several brain cortices has consistently uncovered low-dimensional manifolds that capture a significant fraction of neural variability. These neural manifolds are spanned by specific patterns of correlated neural activity, the ‘‘neural modes.’’ We discuss a [model for neural control of movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634?via%3Dihub) in which the time-dependent activation of these neural modes is the generator of motor behavior. This manifold-based view of motor cortex may lead to a better understanding of how the brain controls movement. 
-
-# April 8, 2019, 5 PM
-**Single-Cell RNA Sequencing: A neuro-centric introduction, Rogan Grant**<br>
-In the last decade, high-throughput sequencing technologies have enabled researchers to dissect transcriptional responses to a wide array of stimuli. Unfortunately, “bulk” tissue approaches have often been of limited utility to the neuroscience community, owing to the vast cellular complexity of the mammalian brain. The advent of single-cell RNA sequencing (scRNA-seq) therefore has the potential to enable researchers to study transcriptional remodeling within the brain across a wide variety of experimental manipulations. In this interactive lecture, we will process a publicly available single scRNA-seq dataset from raw sequencing data to the assignment and exploration of cell-type clusters. Particular emphasis will be given to the strengths and weaknesses of the technique, as well as current methods for data processing, visualization, and differential expression analysis. Attendees are strongly encouraged to bring a computer to the lecture.
 
 # April 22, 2019, 5 PM
 **White Matter Tractography in DTI, Shiloh Cooper**<br>
@@ -18,6 +11,10 @@ Diffusion MRI is sensitive to water movements through tissues, and is used to ch
 
 ## Past Events
 Please see the content page for resources.
+
+# April 8, 2019, 5 PM
+**Single-Cell RNA Sequencing: A neuro-centric introduction, Rogan Grant**<br>
+In the last decade, high-throughput sequencing technologies have enabled researchers to dissect transcriptional responses to a wide array of stimuli. Unfortunately, “bulk” tissue approaches have often been of limited utility to the neuroscience community, owing to the vast cellular complexity of the mammalian brain. The advent of single-cell RNA sequencing (scRNA-seq) therefore has the potential to enable researchers to study transcriptional remodeling within the brain across a wide variety of experimental manipulations. In this interactive lecture, we will process a publicly available single scRNA-seq dataset from raw sequencing data to the assignment and exploration of cell-type clusters. Particular emphasis will be given to the strengths and weaknesses of the technique, as well as current methods for data processing, visualization, and differential expression analysis. Attendees are strongly encouraged to bring a computer to the lecture.
 
 # March 11, 2019, 5 PM
 **Big data and data science in neuroscience, Torben Noto**<br>
