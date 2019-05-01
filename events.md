@@ -4,13 +4,23 @@ title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/942055066)
 
+# May 6, 2019, 5PM
+**Introduction to Multivoxel Pattern Analysis (MVPA), Dr. Thorsten Kahnt**<br>
+This session will provide a brief conceptual introduction to multivoxel pattern analysis (MVPA) for fMRI and discuss why, depending on the research question, using these methods can be advantageous. The focus will be on classification and regression approaches rather than representational similarity. We will discuss the general approach and step through one example. We will conclude by discussing potential mechanisms underlying multivoxel patterns and caveats of the method.
+
+# May 13, 2019, 4PM
+**Decoding Neural Oscillations, Nathan Whitmore**<br>
+We will talk about how the Computational Neuroscience Club built a mind-controlled video game and how computational analysis can help us understand the brain's electrical signals.
+
+# May 20, 2019, 5PM
+**TBA, Dr. Greg Schwartz**<br>
+
+## Past Events
+Please see the content page for resources.
 
 # April 22, 2019, 5 PM
 **White Matter Tractography in DTI, Shiloh Cooper**<br>
 Diffusion MRI is sensitive to water movements through tissues, and is used to characterize tissue structure based on the restriction of water movement. One example is white matter tractography, where the water pathways are assumed to travel in the same directions as bundles of axons traveling between cortical regions of interest. How can we create an accurate tractography algorithm (i.e., one that does not "jump" from one white matter tract to another when they cross within a voxel) without using anatomical priors and biasing the algorithm?
-
-## Past Events
-Please see the content page for resources.
 
 # April 8, 2019, 5 PM
 **Single-Cell RNA Sequencing: A neuro-centric introduction, Rogan Grant**<br>
