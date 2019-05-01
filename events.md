@@ -14,6 +14,7 @@ We will talk about how the Computational Neuroscience Club built a mind-controll
 
 # May 20, 2019, 5PM
 **Applications of Information Theory in Early Sensory Systems, Dr. Greg Schwartz**<br>
+More details to follow.
 
 ## Past Events
 Please see the content page for resources.
