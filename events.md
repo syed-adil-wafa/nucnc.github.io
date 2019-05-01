@@ -13,7 +13,7 @@ This session will provide a brief conceptual introduction to multivoxel pattern 
 We will talk about how the Computational Neuroscience Club built a mind-controlled video game and how computational analysis can help us understand the brain's electrical signals.
 
 # May 20, 2019, 5PM
-**TBA, Dr. Greg Schwartz**<br>
+**Applications of Information Theory in Early Sensory Systems, Dr. Greg Schwartz**<br>
 
 ## Past Events
 Please see the content page for resources.
