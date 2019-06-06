@@ -3,21 +3,28 @@ layout: page
 title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/942055066)
+# June 10, 2019, 5 PM
+**Neural Manifolds for the Control of Movement, Dr. Sara Solla**<br> 
+The analysis of neural dynamics in several brain cortices has consistently uncovered low-dimensional manifolds that capture a significant fraction of neural variability. These neural manifolds are spanned by specific patterns of correlated neural activity, the ‘‘neural modes.’’ We discuss a [model](https://www.sciencedirect.com/science/article/pii/S0896627317304634?via%3Dihub) for neural control of movement in which the time-dependent activation of these neural modes is the generator of motor behavior. This manifold-based view of motor cortex may lead to a better understanding of how the brain controls movement.
 
-# May 6, 2019, 5PM
-**Introduction to Multivoxel Pattern Analysis (MVPA), Dr. Thorsten Kahnt**<br>
-This session will provide a brief conceptual introduction to multivoxel pattern analysis (MVPA) for fMRI and discuss why, depending on the research question, using these methods can be advantageous. The focus will be on classification and regression approaches rather than representational similarity. We will discuss the general approach and step through one example. We will conclude by discussing potential mechanisms underlying multivoxel patterns and caveats of the method.
+# July 1, 2019, 5 PM
+**Neuronal multi-omics, Dr. Yue Yang**<br>
+More info coming soon.
+
+## Past Events
+Please see the content page for resources.
+
+# May 20, 2019, 5PM
+**Applications of Information Theory in Early Sensory Systems, Dr. Greg Schwartz**<br>
+Dr. Schwartz will talk about the basics of information theory from the first principles, including the history of the field. He will then provide some examples of the use of information theory in neuroscience. He will later discuss selected portions of the attached paper.
 
 # May 13, 2019, 4PM
 **Decoding Neural Oscillations, Nathan Whitmore**<br>
 We will talk about how the Computational Neuroscience Club built a mind-controlled video game and how computational analysis can help us understand the brain's electrical signals.
 
-# May 20, 2019, 5PM
-**Applications of Information Theory in Early Sensory Systems, Dr. Greg Schwartz**<br>
-More details to follow.
-
-## Past Events
-Please see the content page for resources.
+# May 6, 2019, 5PM
+**Introduction to Multivoxel Pattern Analysis (MVPA), Dr. Thorsten Kahnt**<br>
+This session will provide a brief conceptual introduction to multivoxel pattern analysis (MVPA) for fMRI and discuss why, depending on the research question, using these methods can be advantageous. The focus will be on classification and regression approaches rather than representational similarity. We will discuss the general approach and step through one example. We will conclude by discussing potential mechanisms underlying multivoxel patterns and caveats of the method.
 
 # April 22, 2019, 5 PM
 **White Matter Tractography in DTI, Shiloh Cooper**<br>
