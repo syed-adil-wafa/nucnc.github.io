@@ -3,16 +3,15 @@ layout: page
 title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/942055066)
-# June 10, 2019, 5 PM
-**Neural Manifolds for the Control of Movement, Dr. Sara Solla**<br> 
-The analysis of neural dynamics in several brain cortices has consistently uncovered low-dimensional manifolds that capture a significant fraction of neural variability. These neural manifolds are spanned by specific patterns of correlated neural activity, the ‘‘neural modes.’’ We discuss a [model](https://www.sciencedirect.com/science/article/pii/S0896627317304634?via%3Dihub) for neural control of movement in which the time-dependent activation of these neural modes is the generator of motor behavior. This manifold-based view of motor cortex may lead to a better understanding of how the brain controls movement.
-
-# July 1, 2019, 5 PM
-**Neuronal multi-omics, Dr. Yue Yang**<br>
-More info coming soon.
+## Events
+Club resuming activity in 2019 Fall.
 
 ## Past Events
 Please see the content page for resources.
+
+# July 1, 2019, 5 PM
+**Neuronal multi-omics, Dr. Yue Yang**<br>
+Neuronal-activity-dependent transcription couples sensory experience to adaptive responses of the brain including learning and memory. I will discuss how sensory experience remodels chromatin architecture in the adult brain in vivo to orchestrate activity-dependent transcription and learning and memory. We use large-scale chromatin profiling, CRISPR genetics, and systems neuroscience approaches to study the role of long-distance enhancer-promoter and compartment interactions in the control of neural circuits in the brain.
 
 # May 20, 2019, 5PM
 **Applications of Information Theory in Early Sensory Systems, Dr. Greg Schwartz**<br>
