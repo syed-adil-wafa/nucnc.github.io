@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/942055066)
-## Events
+
 # September 9, 2019 5 PM (Pancoe 4113, Telec. to Wieboldt 421)
 **The Shift from Life in Water to Life on Land Advantaged Planning in Visually-Guided Behavior, Ugurcan Mugan**<br>
 Studies of animal decision making reveal two distinct, competing control paradigms: habit- and plan-based action selection. The habit system has largely been associated with the lateral striatum and its dopaminergic afferents. Conserved basal ganglia structure from lamprey to mammals suggests that habitual control evolved early and persisted through vertebrate evolution. On the other hand, the planning system requires the interaction between the hippocampus and the prefrontal cortex or its homolog in birds. While the hippocampus (and its homologs) exists in both aquatic and land vertebrates, there seems to be no known homolog of the PFC in non-mammalian aquatic vertebrates.<br>
