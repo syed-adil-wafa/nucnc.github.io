@@ -4,16 +4,17 @@ title: Events
 ---
 # [Join us via bluejeans](https://bluejeans.com/142403471)
 
-# November 4, 2019 5 PM (Tech L251, Telec. to Wieboldt 421)
-**Featured Faculty Talk: Human Brain Networks and Hubs, Dr. Caterina Gratton**<br>
-The human brain is organized into large-scale networks, or systems, of interacting brain regions. These interactions can be measured in humans with functional Magnetic Resonance Imaging (fMRI), by measuring correlations in the patterns of activity between different regions. Increasingly sophisticated techniques enable the mapping of brain networks at unprecedented levels of detail, but many questions still remain. In this presentation, I will tackle two recent studies that we have undertaken to better understand human brain networks and their contributions to brain function. In the first study, we examine whether the topology of brain networks – specifically, the presence of hub regions – is important for brain function, by examining the consequences of damage to these regions. In the second study, we examine the variability in brain networks within and across subjects at different time-scales. Jointly, these studies suggest that network topology has important implications for human brain function, and that measures of network organization are stable features that can be used to measure trait-like variability in brain organization. I will close with a pointer to a tutorial demonstrating four useful visualizations of functional networks.<br>
-
-
-# November 2019, Details TBA
-**Book club - Spikes: Exploring the Neural Code**<br>
+# January 27, 2020 5 PM (Wieboldt 421, Telec. to Tech L251)
+**Revisiting Linear Algebra, Vivek Sagar**<br>
+Has reading up on eigenvalue problems been on your to-do list for over a year? Do you simply pretend that you understand things when your coworker is talking about matrix diagonalization or singular value decomposition in the lab meeting? Do you now realize that PCA is cool but wish you had paid more attention in the linear algebra class in college? Or perhaps you are just looking for a safe, non-judgmental space to let your inner mathematician out. In any case, join us for the first NUCNC event of this decade – “Understanding eigenvalue problems”. I will remind you of what eigenvalue problems are, where they can be used and how to solve them without a computer. We will also discuss how engineers use linear algebra to solve complicated problems of the universe, physicists use it to visualize the laws of the universe and mathematicians use it to create a universe of their own. <br>
+Pre-requisites: Just know how to multiply matrices and what a matrix determinant and inverse is.<br>
 
 ## Past Events
 Please see the content page for resources.
+
+# November 4, 2019 5 PM (Tech L251, Telec. to Wieboldt 421)
+**Featured Faculty Talk: Human Brain Networks and Hubs, Dr. Caterina Gratton**<br>
+The human brain is organized into large-scale networks, or systems, of interacting brain regions. These interactions can be measured in humans with functional Magnetic Resonance Imaging (fMRI), by measuring correlations in the patterns of activity between different regions. Increasingly sophisticated techniques enable the mapping of brain networks at unprecedented levels of detail, but many questions still remain. In this presentation, I will tackle two recent studies that we have undertaken to better understand human brain networks and their contributions to brain function. In the first study, we examine whether the topology of brain networks – specifically, the presence of hub regions – is important for brain function, by examining the consequences of damage to these regions. In the second study, we examine the variability in brain networks within and across subjects at different time-scales. Jointly, these studies suggest that network topology has important implications for human brain function, and that measures of network organization are stable features that can be used to measure trait-like variability in brain organization. I will close with a pointer to a tutorial demonstrating four useful visualizations of functional networks.<br>
 
 # September 9, 2019 5 PM (Pancoe 4113, Telec. to Wieboldt 421)
 **The Shift from Life in Water to Life on Land Advantaged Planning in Visually-Guided Behavior, Ugurcan Mugan**<br>
