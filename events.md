@@ -4,22 +4,22 @@ title: Events
 ---
 # Due to the pandemic events are being held on Zoom. Join the slack channel or sign up to our listserv for Zoom meeting details.
 
-# Machine Learning Basics: How do Computers See?
-## **Moderator: Nathan Whitmore**
-## **November 12, 2020 13:30 PM (Zoom)**
+## Machine Learning Basics: How do Computers See?
+**Moderator: Nathan Whitmore** <br>
+**November 12, 2020 13:30 PM (Zoom)** <br>
 Over the last decade, computer image recognition has risen to rival human vision in applications from from unlocking your phone to detecting tumors in CT scans. The key to this success has been convolutional neural networks (CNNs), which are simple yet incredibly powerful machine learning systems. This meeting will focus on developing an intuitive understanding of how these networks work, and how you can use them to detect patterns in both image and non-image data. <br>
 Optional reading: https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
 
-# Journal Club Discussion
-## **Moderators: Maite Azcorra and Vivek Sagar**
-## **November 26, 2020 12:30 PM (Zoom)**
+## Journal Club Discussion
+**Moderators: Maite Azcorra and Vivek Sagar** <br>
+**November 26, 2020 12:30 PM (Zoom)** <br>
 1. On the Integration of Space, Time, and Memory – Eichenbaum, Neuron 2017 https://www.sciencedirect.com/science/article/pii/S0896627317305603 <br>
 
 2. High-amplitude co-fluctuations in cortical activity drive resting-state functional connectivity – PNAS 2020 https://www.pnas.org/content/early/2020/10/21/2005531117
 
-# Book Club Discussion
-## **Moderator: Maggie Swerdloff**
-## **December 10, 2020 12:30 PM (Zoom)**
+## Book Club Discussion
+**Moderator: Maggie Swerdloff** <br>
+**December 10, 2020 12:30 PM (Zoom)** <br>
 Ignorance: How it Drives Science - Stuart Firestein
 
 
