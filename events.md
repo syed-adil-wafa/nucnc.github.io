@@ -2,7 +2,7 @@
 layout: page
 title: Events
 ---
-# Due to the pandemic events are being held on Zoom. Join the slack channel or sign up to our listserv for Zoom meeting details.
+### Due to the pandemic, events are being held on Zoom. Join the slack channel or sign up to our listserv for Zoom meeting details.
 
 ## Machine Learning Basics: How do Computers See?
 **Moderator: Nathan Whitmore**
