@@ -6,7 +6,7 @@ Due to the pandemic, events are being held on Zoom. Join our Slack channel or si
 
 ## Machine Learning Basics: How do Computers See?
 **Moderator: Nathan Whitmore** <br>
-**November 12, 2020 13:30 PM (Zoom)** <br>
+**November 12, 2020 12:30 PM (Zoom)** <br>
 Over the last decade, computer image recognition has risen to rival human vision in applications from from unlocking your phone to detecting tumors in CT scans. The key to this success has been convolutional neural networks (CNNs), which are simple yet incredibly powerful machine learning systems. This meeting will focus on developing an intuitive understanding of how these networks work, and how you can use them to detect patterns in both image and non-image data. <br>
 Optional reading: https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
 
@@ -23,6 +23,7 @@ Optional reading: https://towardsdatascience.com/simple-introduction-to-convolut
 
 Ignorance: How it Drives Science - Stuart Firestein
 
+---
 
 # Past Events
 Please see the content page for resources.
