@@ -4,15 +4,9 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
-## Machine Learning Basics: How do Computers See?
-**Moderator: Nathan Whitmore** <br>
-**November 12, 2020 12:30 PM (Zoom)** <br>
-Over the last decade, computer image recognition has risen to rival human vision in applications from from unlocking your phone to detecting tumors in CT scans. The key to this success has been convolutional neural networks (CNNs), which are simple yet incredibly powerful machine learning systems. This meeting will focus on developing an intuitive understanding of how these networks work, and how you can use them to detect patterns in both image and non-image data. <br>
-Optional reading: [https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
-
 ## Journal Club Discussion
 **Moderators: Maite Azcorra and Vivek Sagar** <br>
-**November 26, 2020 12:30 PM (Zoom)**
+**December 3, 2020 12:30 PM (Zoom)**
 1. On the Integration of Space, Time, and Memory – Eichenbaum, Neuron 2017 [https://www.sciencedirect.com/science/article/pii/S0896627317305603](https://www.sciencedirect.com/science/article/pii/S0896627317305603)
 
 2. High-amplitude co-fluctuations in cortical activity drive resting-state functional connectivity – PNAS 2020 [https://www.pnas.org/content/early/2020/10/21/2005531117](https://www.pnas.org/content/early/2020/10/21/2005531117)
@@ -28,8 +22,15 @@ Ignorance: How it Drives Science - Stuart Firestein
 # Past Events
 Please see the content page for resources.
 
-# January 27, 2020 5 PM (Wieboldt 421, Telec. to Tech L251)
-**Revisiting Linear Algebra, Vivek Sagar** <br>
+## Machine Learning Basics: How do Computers See?
+**Moderator: Nathan Whitmore** <br>
+**November 12, 2020 12:30 PM (Zoom)** <br>
+Over the last decade, computer image recognition has risen to rival human vision in applications from from unlocking your phone to detecting tumors in CT scans. The key to this success has been convolutional neural networks (CNNs), which are simple yet incredibly powerful machine learning systems. This meeting will focus on developing an intuitive understanding of how these networks work, and how you can use them to detect patterns in both image and non-image data. <br>
+Optional reading: [https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
+
+## Revisiting Linear Algebra
+**Moderator: Vivek Sagar** <br>
+**January 27, 2020 5 PM (Wieboldt 421, Telec. to Tech L251)** <br>
 Has reading up on eigenvalue problems been on your to-do list for over a year? Do you simply pretend that you understand things when your coworker is talking about matrix diagonalization or singular value decomposition in the lab meeting? Do you now realize that PCA is cool but wish you had paid more attention in the linear algebra class in college? Or perhaps you are just looking for a safe, non-judgmental space to let your inner mathematician out. In any case, join us for the first NUCNC event of this decade – “Understanding eigenvalue problems”. I will remind you of what eigenvalue problems are, where they can be used and how to solve them without a computer. We will also discuss how engineers use linear algebra to solve complicated problems of the universe, physicists use it to visualize the laws of the universe and mathematicians use it to create a universe of their own. <br>
 Pre-requisites: Just know how to multiply matrices and what a matrix determinant and inverse is.
 
