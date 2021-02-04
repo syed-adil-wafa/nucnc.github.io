@@ -3,7 +3,13 @@ title: NUCNC
 email: NUCompNeuroClub@gmail.com
 description: Northwestern University Computational Neuroscience Club
 
-
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - aims.md
+  - events.md
+  - join.md
