@@ -4,12 +4,14 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
-## Journal Club Discussion
-**Moderators: Maite Azcorra and Vivek Sagar** <br>
-**December 3, 2020 12:30 PM (Zoom)**
-1. On the Integration of Space, Time, and Memory – Eichenbaum, Neuron 2017 [https://www.sciencedirect.com/science/article/pii/S0896627317305603](https://www.sciencedirect.com/science/article/pii/S0896627317305603)
 
-2. High-amplitude co-fluctuations in cortical activity drive resting-state functional connectivity – PNAS 2020 [https://www.pnas.org/content/early/2020/10/21/2005531117](https://www.pnas.org/content/early/2020/10/21/2005531117)
+## The Neural Population Dynamics of Freely Behaving Mice
+**Dr. Ann Kennedy, Northwestern University** <br>
+**February 18, 2021 1:00 PM (Zoom)** <br>
+In order to survive and reproduce, animals must produce a diverse range of innate and learned behaviors in a flexible and context-dependent manner. The computational task of forming an internal representation of an animal’s environment and translating that to the selection of goal-directed actions is dependent on the coordinated activity of multiple brain areas. The Kennedy lab works with experimentalists to dissect the neural correlates of behavior in multiple interconnected hypothalamic nuclei of freely behaving mice. In this talk, I will present our recent analyses of neural population tuning and dynamics, and discuss what we think these analyses are telling us about the interaction between different neural populations during behavior.
+
+---
+<h2 align="center">Past Events </h2>
 
 ## Book Club Discussion
 **Moderator: Maggie Swerdloff** <br>
@@ -17,10 +19,12 @@ Due to the pandemic, events are being held on Zoom. Join our Slack channel or si
 
 Ignorance: How it Drives Science - Stuart Firestein
 
----
+## Journal Club Discussion
+**Moderators: Maite Azcorra and Vivek Sagar** <br>
+**December 3, 2020 12:30 PM (Zoom)**
+1. On the Integration of Space, Time, and Memory – Eichenbaum, Neuron 2017 [https://www.sciencedirect.com/science/article/pii/S0896627317305603](https://www.sciencedirect.com/science/article/pii/S0896627317305603)
 
-# Past Events
-Please see the content page for resources.
+2. High-amplitude co-fluctuations in cortical activity drive resting-state functional connectivity – PNAS 2020 [https://www.pnas.org/content/early/2020/10/21/2005531117](https://www.pnas.org/content/early/2020/10/21/2005531117)
 
 ## Machine Learning Basics: How do Computers See?
 **Moderator: Nathan Whitmore** <br>
