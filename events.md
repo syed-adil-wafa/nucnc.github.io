@@ -32,6 +32,44 @@ Ignorance: How it Drives Science - Stuart Firestein
 Over the last decade, computer image recognition has risen to rival human vision in applications from from unlocking your phone to detecting tumors in CT scans. The key to this success has been convolutional neural networks (CNNs), which are simple yet incredibly powerful machine learning systems. This meeting will focus on developing an intuitive understanding of how these networks work, and how you can use them to detect patterns in both image and non-image data. <br>
 Optional reading: [https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
 
+## MATLAB Programming Practices
+**Vivek Sagar** <br>
+**September 28, 2020 5 PM** <br>
+MATLAB is a high-level matrix/array language with an intuitive IDE and an interactive graphics system that makes it an easy language for the beginners. MATLAB codes however, are susceptible to sub-optimal performance if good programming practices are not followed. In this module we will go over some techniques and tools to optimize the code performance in MATLAB. In this hands on session, we will cover: MATLAB data structures, working with MATLAB Profiler, important practices such as preallocation and vectorization, fast referencing operations, function handles and memory optimization. This is part 1 of a 2 part module. Second module will feature parallel processing, GPU acceleration and working with Mex scripts.
+
+## Alveolitis In Severe Sars-CoV-2 Pneumonia Is Driven by Self-sustaining Circuits Between Infected Alveolar Macrophages and T Cells
+**Rogan Grant and Nikolay Markov** <br>
+**September 7, 2020 5 PM** <br>
+Some patients infected with Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) develop severe pneumonia and the acute respiratory distress syndrome (ARDS). Distinct clinical features in these patients have led to speculation that the immune response to virus in the SARS-CoV-2-infected alveolus differs from other types of pneumonia. We collected bronchoalveolar lavage fluid samples from 86 patients with SARS-CoV-2-induced respiratory failure and 252 patients with known or suspected pneumonia from other pathogens and subjected them to flow cytometry and bulk transcriptomic profiling. We performed single-cell RNA-Seq in 5 bronchoalveolar lavage fluid samples collected from patients with severe COVID-19 within 48 hours of intubation. In the majority of patients with SARS-CoV-2 infection at the onset of mechanical ventilation, the alveolar space is persistently enriched in CD4+ and CD8+ T cells, without neutrophilia. Bulk and single cell transcriptomic profiling suggest SARS-CoV-2 infects alveolar macrophages that respond by recruiting T cells. These T cells release interferon-gamma to induce inflammatory cytokine release from alveolar macrophages and further promote T cell recruitment. Our results suggest SARS-CoV-2 causes a slowly unfolding, spatially-limited alveolitis in which alveolar macrophages harboring SARS-CoV-2 transcripts and T cells form a positive feedback loop that drives progressive alveolar inflammation. <br>
+This talk is accompanied by an online resource: https://www.nupulmonary.org/covid-19/
+
+## Book club: The deep learning book, Ian Goodfellow
+**July 27, 2020 5 PM**<br>
+This is the second installment of the book club. We will discuss sections from Ian Goodfellow's deep learning book. This discussion will be focused on chapter 5 of the book, covering the basics of machine learning theory. Book is available for free at the following link: https://www.deeplearningbook.org/contents/ml.html
+
+## Alveolitis In Severe Sars-CoV-2 Pneumonia Is Driven by Self-sustaining Circuits Between Infected Alveolar Macrophages and T Cells
+**Torben Noto** <br>
+**July 13, 2020 5 PM** <br>
+Emotion and breathing are intimately linked. We laugh, cry, gasp, experience shortness-of-breath and modify our respiration in other characteristic patterns directly based on emotion. In each of these 4 behaviors, emotion disrupts breathing, a vital process that we must constantly perform to survive. Considerable progress has been made investigating the circuits that generate natural breathing rhythms; however, the circuits that integrate emotion into respiratory behaviors are unknown. Recent work in epilepsy patients has shown that direct electrical stimulation of the amygdala disrupts nasal breathing, typically causing apnea. Here, we quantify the psychometrics of this circuit by measuring how quickly breathing is modulated in response to human faces, a well-established amygdala stimulus. We hypothesize that time delay at which breathing is reduced following the presentation of an amygdala stimulus will be consistent with that of a subcortical amygdala circuit. Our research represents a possible biomarker for anxiety and could indicate maladaptive associations between emotional and respiratory networks. Finally, in a single iEEG patient we find that theta power in local field potentials of the amygdala strongly correlate with face-induced respiratory reductions. Together, these findings support a possible role for the amygdala in acute respiratory reductions and indicate future avenues to directly test the functional properties of this circuit.
+
+## Book club: The deep learning book, Ian Goodfellow, Chapter 5
+**June 15, 2020 5 PM**<br>
+We will discuss sections from Ian Goodfellow's deep learning book. This discussion will be focused on the first 30 pages of chapter 5 of the book, covering the basics of machine learning theory. Book is available for free at the following link: https://www.deeplearningbook.org/contents/ml.html
+
+## De Novo Genome Assembly: Tackling Structural Variation
+**Alex Telenson** <br>
+**June 1, 2020 5 PM**<br>
+Assembling genomes from billions of short read segments has proven difficult, but manageable. Traditional assembly relies on a species reference genome to use as the scaffold or foundation upon which SNPs, CNV and short indels are easily identified. However, phenotypes caused by large structural variation in the genome has proven much more difficult to ascertain. I will elaborate these challenges and talk about potential paths forward.
+
+## Decoding Sleep with Neural Networks
+**Nathan Whitmore** <br>
+**May 11, 2020 5 PM**<br>
+Join us for a discussion on the interface of deep learning and sleep. Nathan will talk about his lab's work to decode sleep stages using deep neural networks and smartwatches, and how it fits into their overall goal of developing devices that can manipulate sleep and memory.
+
+## Book Club Discussion: "Symmetry" by Hermann Weyl
+**April 6, 2020 6 PM** <br>
+Penned by one of the most influential mathematicians of the 20th century, Symmetry gradually exposes the reader to abstract mathematical notion of symmetry with the help of intuitive real-life examples.
+
 ## Revisiting Linear Algebra
 **Moderator: Vivek Sagar** <br>
 **January 27, 2020 5 PM (Wieboldt 421, Telec. to Tech L251)** <br>
