@@ -4,14 +4,13 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
+---
+<h2 align="center">Past Events </h2>
 
 ## The Neural Population Dynamics of Freely Behaving Mice
 **Dr. Ann Kennedy, Northwestern University** <br>
 **February 18, 2021 11:00 AM (Zoom)** <br>
 In order to survive and reproduce, animals must produce a diverse range of innate and learned behaviors in a flexible and context-dependent manner. The computational task of forming an internal representation of an animal’s environment and translating that to the selection of goal-directed actions is dependent on the coordinated activity of multiple brain areas. The Kennedy lab works with experimentalists to dissect the neural correlates of behavior in multiple interconnected hypothalamic nuclei of freely behaving mice. In this talk, I will present our recent analyses of neural population tuning and dynamics, and discuss what we think these analyses are telling us about the interaction between different neural populations during behavior.
-
----
-<h2 align="center">Past Events </h2>
 
 ## Book Club Discussion
 **Moderator: Maggie Swerdloff** <br>
