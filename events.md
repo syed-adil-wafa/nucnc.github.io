@@ -4,13 +4,13 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
+---
+<h2 align="center">Past Events </h2>
+
 ## GED: A flexible family of versatile methods for hypothesis-driven multivariate decompositions
 **Dr. Mike X Cohen, Radboud University** <br>
 **April 1, 2021 12:00 PM (Zoom)** <br>
 The goal of my presentation is to introduce a powerful yet under-utilized mathematical equation that is surprisingly effective at uncovering spatiotemporal patterns that are embedded in data -- but that might be inaccessible in traditional analysis methods due to low SNR or sparse spatial distribution. If you flunked calculus, then don't worry: the math is really easy, and I'll spend most of the time discussing intuition, simulations, and applications in real data. I will also spend some time in the beginning of the talk providing a bird's-eye-view of the empirical research in my lab, which focuses on mesoscale brain dynamics associated with error monitoring and response competition.
-
----
-<h2 align="center">Past Events </h2>
 
 ## The Neural Population Dynamics of Freely Behaving Mice
 **Dr. Ann Kennedy, Northwestern University** <br>
