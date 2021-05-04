@@ -4,6 +4,18 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
+
+## Sheaves for Neuroscientists
+**Mark Agrios, NUIN** <br>
+**May 6, 2021 12:00 PM (Zoom)** <br>
+As experimental methods improve, we are now faced with the challenge of how to analyze data that can interact with itself at many different levels or organization. Here, we will introduce the often-intimidating mathematical structures called sheaves and discuss how they can be used to probe questions in biology and neuroscience.<br>
+Please refer to this [write-up](http://markagrios.net/docs/intro_to_sheaves.pdf) for a brief introduction to sheaves.
+
+## Weighted Correlation Network Analysis Reveals an Asd-specific Gene Module Expressed by Neurons in a Cerebral Organoid Model of Pacs1 Syndrome
+**Lauren Rylaarsdam, NUIN** <br>
+**May 20, 2021 12:00 PM (Zoom)**<br>
+PACS1 syndrome is a neurodevelopmental disorder characterized by intellectual disability, autism spectrum disorder (ASD), epilepsy, distinct craniofacial abnormalities, and global developmental delays. PACS1 syndrome results from a single de novo missense p.R203W variant in phosphofurin acidic cluster sorting protein 1 (PACS1), which is involved in shuttling targets to the trans-Golgi Network. Almost no previous research has been done on how this variant in PACS1 affects the developing nervous system, and very few therapeutic options are available for patients. In order to begin to address the impact of the R203W variant on different cell types in the developing brain, I performed single-cell RNA sequencing on cerebral organoids generated from patient and control-derived stem cells. I found a total of 199 unique differentially expressed genes between PACS1 syndrome and control organoids. Differentially expressed genes - particularly in neurons - are enriched for OMIM risk genes of other neurodevelopmental disorders with overlapping phenotypes to PACS1 syndrome. Weighted gene co-expression network analysis (WGCNA) of the neuron group revealed four gene expression modules that were significantly correlated with genotype. One of these modules heavily overlaps with ASD-specific modules identified in other studies, suggesting that PACS1 syndrome likely shares convergent disease mechanisms with ASD. This work begins to provide a better understanding for how the PACS1 R203W variant affects the developing nervous system, opening further avenues of study to determine disease mechanisms and eventually develop therapies for patients.
+
 ---
 <h2 align="center">Past Events </h2>
 
