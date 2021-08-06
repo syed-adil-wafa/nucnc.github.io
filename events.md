@@ -5,6 +5,19 @@ title: Events
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
 
+## Dissecting how recurrent neural networks process noisy images
+**Dr. Grace Lindsay, UCL** <br>
+**September 2, 2021 12:00 PM (Zoom)**<br>
+In the first half of this session, Dr. Lindsay will discuss her work on recurrent neural networks in visual perception.<br>
+
+Abstract: Psychophysics studies have shown that visual perception of noisy or degraded images is enhanced when participants are given more time to process the image; this is believed to be due to the influence of recurrent connections in the visual system. I will share some recent work showing how convolutional neural networks with either bio-inspired or task-trained recurrent connections can replicate these behavioral findings, but do so with different neural mechanisms.<br>
+
+In the second half of this session, we will discuss Dr. Lindsay's new book: Models of the mind.
+
+
+---
+<h2 align="center">Past Events </h2>
+
 ## Sheaves for Neuroscientists
 **Mark Agrios, NUIN** <br>
 **May 6, 2021 12:00 PM (Zoom)** <br>
@@ -15,9 +28,6 @@ Please refer to this [write-up](http://markagrios.net/docs/intro_to_sheaves.pdf)
 **Lauren Rylaarsdam, NUIN** <br>
 **May 20, 2021 12:00 PM (Zoom)**<br>
 PACS1 syndrome is a neurodevelopmental disorder characterized by intellectual disability, autism spectrum disorder (ASD), epilepsy, distinct craniofacial abnormalities, and global developmental delays. PACS1 syndrome results from a single de novo missense p.R203W variant in phosphofurin acidic cluster sorting protein 1 (PACS1), which is involved in shuttling targets to the trans-Golgi Network. Almost no previous research has been done on how this variant in PACS1 affects the developing nervous system, and very few therapeutic options are available for patients. In order to begin to address the impact of the R203W variant on different cell types in the developing brain, I performed single-cell RNA sequencing on cerebral organoids generated from patient and control-derived stem cells. I found a total of 199 unique differentially expressed genes between PACS1 syndrome and control organoids. Differentially expressed genes - particularly in neurons - are enriched for OMIM risk genes of other neurodevelopmental disorders with overlapping phenotypes to PACS1 syndrome. Weighted gene co-expression network analysis (WGCNA) of the neuron group revealed four gene expression modules that were significantly correlated with genotype. One of these modules heavily overlaps with ASD-specific modules identified in other studies, suggesting that PACS1 syndrome likely shares convergent disease mechanisms with ASD. This work begins to provide a better understanding for how the PACS1 R203W variant affects the developing nervous system, opening further avenues of study to determine disease mechanisms and eventually develop therapies for patients.
-
----
-<h2 align="center">Past Events </h2>
 
 ## GED: A flexible family of versatile methods for hypothesis-driven multivariate decompositions
 **Dr. Mike X Cohen, Radboud University** <br>
