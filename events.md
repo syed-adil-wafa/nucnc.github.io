@@ -12,7 +12,7 @@ In the first half of this session, Dr. Lindsay will discuss her work on recurren
 
 **Abstract:** Psychophysics studies have shown that visual perception of noisy or degraded images is enhanced when participants are given more time to process the image; this is believed to be due to the influence of recurrent connections in the visual system. I will share some recent work showing how convolutional neural networks with either bio-inspired or task-trained recurrent connections can replicate these behavioral findings, but do so with different neural mechanisms.<br>
 
-In the second half of this session, we will discuss Dr. Lindsay's new book: [Models of the mind](https://www.bloomsbury.com/us/models-of-the-mind-9781472966452/).<br>
+In the second half of this session, we will discuss Dr. Lindsay's new book: [Models of the mind](https://www.bloomsbury.com/us/models-of-the-mind-9781472966452/){:target="_blank"}.<br>
 
 
 ---
