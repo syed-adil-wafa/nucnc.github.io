@@ -4,6 +4,8 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.
 
+---
+<h2 align="center">Past Events </h2>
 
 ## Dissecting how recurrent neural networks process noisy images
 **Dr. Grace Lindsay, UCL** <br>
@@ -14,9 +16,6 @@ In the first half of this session, Dr. Lindsay will discuss her work on recurren
 
 In the second half of this session, we will discuss Dr. Lindsay's new book: [Models of the mind](https://www.bloomsbury.com/us/models-of-the-mind-9781472966452/){:target="_blank"}.<br>
 
-
----
-<h2 align="center">Past Events </h2>
 
 ## Sheaves for Neuroscientists
 **Mark Agrios, NUIN** <br>
