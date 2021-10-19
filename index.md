@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![](assets/images/brain.webp)
+![](assets/images/210208_NUCNC_logo.png)
 
 <br>
 <h1 align="center">Welcome to Northwestern University Computational Neuroscience Club (NUCNC).</h1>
