@@ -4,14 +4,20 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.<br>
 
+## Bioinformatic approaches to study adaptive immunity in neurodegenerative disease
+**Dr. David M. Gate, Northwestern University** <br>
+**November 18, 2021 12:00 PM (Zoom)**<br>
+In this featured faculty talk, Dr. Gate will discuss the computational and bioinformatic techniques central to his recent publications in [Nature](https://www.nature.com/articles/s41586-019-1895-7), [Science](https://www.science.org/doi/full/10.1126/science.abf7266), and [Molecular Neurodegeneration](https://link.springer.com/article/10.1186/s13024-021-00423-w) identifying a role for T cells in neurodegenerative disease using multi-omics approaches. While activation of the innate immune system has long been linked to neurodegeneration, these results are among the first to establish a novel role for adaptive immunity. Dr. Gate is a recent hire in the Ken and Ruth Davee Department of Neurology from the Wyss-Coray laboratory at Stanford University.<br>
+
+---
+
+<h2 align="center">Past Events </h2>
+
 ## Task-specific whole-cortical states during decision making
 **Dr. Lucas Pinto, Northwestern University** <br>
 **October 21, 2021 12:00 PM (Zoom)**<br>
 A central question in the neuroscience of decision making is to what extent computations are distributed or localized in specific brain areas. In my talk, I will argue that the degree of localization of cortical function is not static, but rather depends crucially on the complexity of the underlying decision-making computations. I will first discuss experiments involving systematic optogenetic mapping and wide-field calcium imaging across the dorsal cortex. Specifically, I use these techniques to compare three related navigational decision tasks in virtual reality, happening in the same virtual maze but requiring different underlying computations. The results suggest that tasks with higher cognitive demands engage more distributed cortical circuits, with less correlated activity across different cortical regions. I will also discuss recent findings suggesting that, for a decision-making task requiring gradual accumulation of sensory evidence, widespread cortical areas contribute to evidence accrual on different timescales, exploiting an existing hierarchy of intrinsic temporal integration windows. Taken together, our results suggest that changes in the underlying computations result in a reorganization of whole-cortical dynamics, a concept which I refer to as task-specific cortical states. Understanding the properties and circuit mechanisms underlying our ability to switch between and maintain these states is the primary focus of my new lab here at Northwestern.<br>
 
----
-
-<h2 align="center">Past Events </h2>
 
 ## Dissecting how recurrent neural networks process noisy images
 **Dr. Grace Lindsay, UCL** <br>
