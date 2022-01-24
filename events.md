@@ -4,14 +4,15 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.<br>
 
+---
+
+<h2 align="center">Past Events </h2>
+
 ## Bioinformatic approaches to study adaptive immunity in neurodegenerative disease
 **Dr. David M. Gate, Northwestern University** <br>
 **November 18, 2021 12:00 PM (Zoom)**<br>
 In this featured faculty talk, Dr. Gate will discuss the computational and bioinformatic techniques central to his recent publications in [Nature](https://www.nature.com/articles/s41586-019-1895-7), [Science](https://www.science.org/doi/full/10.1126/science.abf7266), and [Molecular Neurodegeneration](https://link.springer.com/article/10.1186/s13024-021-00423-w) identifying a role for T cells in neurodegenerative disease using multi-omics approaches. While activation of the innate immune system has long been linked to neurodegeneration, these results are among the first to establish a novel role for adaptive immunity. Dr. Gate is a recent hire in the Ken and Ruth Davee Department of Neurology from the Wyss-Coray laboratory at Stanford University.<br>
 
----
-
-<h2 align="center">Past Events </h2>
 
 ## Task-specific whole-cortical states during decision making
 **Dr. Lucas Pinto, Northwestern University** <br>
