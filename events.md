@@ -12,6 +12,8 @@ The brain is a dynamical system and its dynamics are reflected in the actions it
 ## Machine learning approaches to neuronal classification
 **Zachary Frazier Jessen, Northwestern University** <br>
 **March 24th, 2022, 12:00 PM (Zoom)** <br>
+Details TBA
+<br>
 
 ---
 
