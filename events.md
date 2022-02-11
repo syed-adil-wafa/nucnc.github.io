@@ -9,6 +9,9 @@ Due to the pandemic, events are being held on Zoom. Join our Slack channel or si
 **February 18th, 2022, 12:00 PM (Zoom)** <br>
 The brain is a dynamical system and its dynamics are reflected in the actions it performs. In order to understand brain functions, observable motion is a fundamental resource. Technological approaches towards understanding and dissecting the spatiotemporal order of animal motion are still in its infancy compared to approaches aiming at dissecting brain functions. Recent advances in representation and self-supervised learning can be leveraged to learn robust representations of animal behavior in an unprecedented manner. In my work, I explore combining autoregressive models with the notion of variational auto-encoding to learn robust spatiotemporal embeddings of animal behavior. Finally, self-supervised methods open the possibility to learn from neural and behavioral data jointly, which is a promising direction in the field of computational neuroethology.<br>
 
+## Machine learning approaches to neuronal classification
+**Zachary Frazier Jessen, Northwestern University** <br>
+**March 24th, 2022, 12:00 PM (Zoom)** <br>
 
 ---
 
