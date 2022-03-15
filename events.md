@@ -4,11 +4,6 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.<br>
 
-## Self-supervised learning as a gateway to reveal underlying dynamics in animal behavior
-**Kevin Luxem, Leibniz Institute for Neurobiology, Magdeburg** <br>
-**February 18th, 2022, 12:00 PM (Zoom)** <br>
-The brain is a dynamical system and its dynamics are reflected in the actions it performs. In order to understand brain functions, observable motion is a fundamental resource. Technological approaches towards understanding and dissecting the spatiotemporal order of animal motion are still in its infancy compared to approaches aiming at dissecting brain functions. Recent advances in representation and self-supervised learning can be leveraged to learn robust representations of animal behavior in an unprecedented manner. In my work, I explore combining autoregressive models with the notion of variational auto-encoding to learn robust spatiotemporal embeddings of animal behavior. Finally, self-supervised methods open the possibility to learn from neural and behavioral data jointly, which is a promising direction in the field of computational neuroethology.<br>
-
 ## Machine learning approaches to neuronal classification
 **Zachary Frazier Jessen, Northwestern University** <br>
 **March 24th, 2022, 12:00 PM (Zoom)** <br>
@@ -18,6 +13,13 @@ Details TBA
 ---
 
 <h2 align="center">Past Events </h2>
+
+
+## Self-supervised learning as a gateway to reveal underlying dynamics in animal behavior
+**Kevin Luxem, Leibniz Institute for Neurobiology, Magdeburg** <br>
+**February 18th, 2022, 12:00 PM (Zoom)** <br>
+The brain is a dynamical system and its dynamics are reflected in the actions it performs. In order to understand brain functions, observable motion is a fundamental resource. Technological approaches towards understanding and dissecting the spatiotemporal order of animal motion are still in its infancy compared to approaches aiming at dissecting brain functions. Recent advances in representation and self-supervised learning can be leveraged to learn robust representations of animal behavior in an unprecedented manner. In my work, I explore combining autoregressive models with the notion of variational auto-encoding to learn robust spatiotemporal embeddings of animal behavior. Finally, self-supervised methods open the possibility to learn from neural and behavioral data jointly, which is a promising direction in the field of computational neuroethology.<br>
+
 
 ## Bioinformatic approaches to study adaptive immunity in neurodegenerative disease
 **Dr. David M. Gate, Northwestern University** <br>
