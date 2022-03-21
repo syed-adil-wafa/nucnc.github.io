@@ -7,8 +7,7 @@ Due to the pandemic, events are being held on Zoom. Join our Slack channel or si
 ## Machine learning approaches to neuronal classification
 **Zachary Frazier Jessen, Northwestern University** <br>
 **March 24th, 2022, 12:00 PM (Zoom)** <br>
-Details TBA
-<br>
+Neuronal classification is a critical tool to further our understanding of neural circuits and their computations, but efforts to classify neurons have been hindered by a combination of technical and conceptual hurdles. On the technical end, collection of data of sufficient quantity and complexity remains challenging. Conceptually, in the absence of a universal ground truth, most classification schemes are operative, and a balance has to be struck in the level of granularity that is achieved: a grouping can become either too broad or too specific in a given context. In this talk, I will discuss efforts to classify neurons using morphological, physiological, and molecular techniques, focusing on our recent work in unifying these modalities in the context of mouse retinal ganglion cells. I will highlight how semi-supervised and transfer learning can aid in the synthesis of scientific data sets into a coherent classification. I will also compare traditional classification approaches to those using machine learning and their respective limitations. Future advances in our understanding of neuronal typology are expected to come from leveraging our knowledge of their connectivity patterns through graph-based classification.<br>
 
 ---
 
