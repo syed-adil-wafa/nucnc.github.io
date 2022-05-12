@@ -6,6 +6,12 @@ Due to the pandemic, events are being held on Zoom. Join our Slack channel or si
 
 ---
 
+## Hidden brain states disentangle the roles of distinct oscillatory processes in creative problem solving
+**Yuhua Yu, Northwestern University** <br>
+**May 26th, 2022, 12:00 PM (Zoom)** <br>
+Abstract coming soon<br>
+
+
 <h2 align="center">Past Events </h2>
 
 ## Machine learning approaches to neuronal classification
