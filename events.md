@@ -4,13 +4,20 @@ title: Events
 ---
 Due to the pandemic, events are being held on Zoom. Join our Slack channel or sign up to our listserv for Zoom meeting details.<br>
 
+---
+<h2 align="center">Past Events </h2>
+
+## Computational analysis of behavior leverages up drug development
+**Sebastian Malagon Perez, Northwestern University** <br>
+**September 28th, 2022, 4:00 PM (Ward 5-230)** <br>
+Understanding how animals organize behavior at different timescales is an important aim for modern Systems Neuroscience. Recently developed data-driven methods to analyze behavior aim to produce detailed, quantitative descriptions of complex sequences of behavior. Here, we discuss recent work by Wiltschko et al. where they   use Motion Sequencing (MoSeq) —a Hidden Markov Model (HMM)-based method— to segment mouse behavior into a set of short, re-occuring "syllables". To demonstrate the power of this method, they show that they can identify changes in occurrences and transitions between behavioral syllables due to pharmacological modulation, showing how behavioral phenotyping can be leveraged for drug development by increasing our ability to detect on- and off-target effects of drugs.<br>
+
+
 ## Hidden brain states disentangle the roles of distinct oscillatory processes in creative problem solving
 **Yuhua Yu, Northwestern University** <br>
 **May 26th, 2022, 12:00 PM (Zoom)** <br>
 Oscillatory activities have important roles in human cognitive functions and creative performance. Previous works have found various oscillations in theta and alpha bands, from distinct spatial locations, involved in different stages of a trial. In this project, we attempt to obtain a wholistic view of cognitive processes recruited during creative problem solving by applying an unsupervised machine learning algorithm to electrophysiological signals. EEG data were recorded when participants attempted Compound Remote Association verbal puzzles. Raw data underwent blind source separation and time-frequency transformation, and the resulting time series data were analyzed using a hidden Markov model. Multiple hidden states featuring activation in lower or upper alpha bands (as well as theta and beta) with distinct spatial distributions emerged from this data-driven approach. Importantly, the derived brain states exhibit differential profiles related to the trial stages (onset versus response) and outcomes (whether and how the problem was solved), suggesting their different cognitive functions. Moreover, a novel temporal connectivity analysis reveals specific transition patterns between the states. The results suggest a dynamic interplay of differentiable oscillatory processes during the course of creative problem solving.<br>
 
----
-<h2 align="center">Past Events </h2>
 
 ## Machine learning approaches to neuronal classification
 **Zachary Frazier Jessen, Northwestern University** <br>
